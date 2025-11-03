@@ -11,7 +11,7 @@ export default function HomePage() {
 
         <p className="max-w-2xl text-neutral-300">
           大学生エンジニア。Webフロント〜バックまで横断し、ユーザー価値に直結する改善が得意です。
-          最近は Next.js / Go / MySQL / Docker を中心に個人開発と長期インターンで実践しています。
+          最近は Next.js / Go / MySQL / Docker を中心に個人開発と長期インターンで実践しながら、日々学習に取り組んでいます。
         </p>
 
         {/* 🎯 ボタンエリア */}
